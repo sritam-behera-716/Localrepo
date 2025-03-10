@@ -1,0 +1,10 @@
+[1mdiff --git a/main.py b/main.py[m
+[1mindex 2efeac0..cf1e4d1 100644[m
+[1m--- a/main.py[m
+[1m+++ b/main.py[m
+[36m@@ -1,2 +1,3 @@[m
+ print("Hello World")[m
+[31m-print("I'm Sritam Behera") # This is my name[m
+\ No newline at end of file[m
+[32m+[m[32mprint("I'm Python") # It is a language[m
+[32m+[m[32mprint("I'm Sritam Behera") # This is my name[m
